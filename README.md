@@ -1,4 +1,3 @@
-
-Used Technologies:
-HTML
+# Technologies Used:
+HTML <br>
 CSS
